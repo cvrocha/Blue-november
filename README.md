@@ -5,7 +5,7 @@
 **<h3>➡️&nbsp;https://cvrocha.github.io/Novembro-Azul ⬅️&nbsp;</h3>**
 
 #
-![cvrocha github io_Pascoa_](https://user-images.githubusercontent.com/62439381/185640231-c898562a-0779-49df-a647-486b12d0bf28.png)
+![cvrocha github io_Novembro-Azul_](https://user-images.githubusercontent.com/62439381/185641041-2d325dd8-c6c7-49e8-a6ad-f226f4ac6693.png)
 
 ## Sobre 📝
 Esse é um site sobre o novembro azul, um projeto feito pela faculdade.
