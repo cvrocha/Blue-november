@@ -8,7 +8,7 @@
 ![cvrocha github io_Novembro-Azul_ (1)-min](https://user-images.githubusercontent.com/62439381/185643578-67f6b506-5e26-454b-9bf9-81d4cc54e20e.png)
 
 ## Sobre 📝
-Esse é um site sobre o novembro azul, um projeto feito pela faculdade.
+Esse é um site sobre o novembro azul, um projeto feito para a faculdade.
 
 ## O que é o projeto
 É um site responsivo feito em BOOTSTRAP usado no front end foi o responsável por trazer algumas funcionalidades.
